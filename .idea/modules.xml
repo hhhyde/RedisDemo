@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RedisDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/RedisDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RedisDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RedisDemo_main.iml" group="RedisDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RedisDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RedisDemo_test.iml" group="RedisDemo" />
+    </modules>
+  </component>
+</project>
